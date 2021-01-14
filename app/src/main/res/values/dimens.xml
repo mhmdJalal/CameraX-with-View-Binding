@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="your_width" />
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">10sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">11sp</dimen>
+    <dimen name="margin_0">0dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="space_small">@dimen/margin_10</dimen>
+    <dimen name="space_medium">@dimen/margin_20</dimen>
+    <dimen name="space_large">@dimen/margin_40</dimen>
+    <dimen name="space_top_form">5dp</dimen>
+    <dimen name="line_spacing">2dp</dimen>
+    <dimen name="copyright">9sp</dimen>
+    <dimen name="margin_horizontal_form">@dimen/margin_15</dimen>
+    <dimen name="button_size">53dp</dimen>
+    <dimen name="edittext_height">40dp</dimen>
+
+    <dimen name="margin_horizontal_label">6dp</dimen>
+    <dimen name="margin_vertical_label">3dp</dimen>
+
+    <dimen name="corner_radius_small">5dp</dimen>
+    <dimen name="corner_radius_medium">10dp</dimen>
+    <dimen name="space_statusbar">24dp</dimen>
+    <dimen name="drawablePaddingHorizontal">8dp</dimen>
+</resources>
